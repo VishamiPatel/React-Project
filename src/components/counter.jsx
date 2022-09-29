@@ -8,7 +8,7 @@ const Counter = () => {
   return (
     <div>
       <button onClick={() => setCount(count + 1)} className="m-3">
-        +
+        increament
       </button>
       <button onClick={() => setCount(0)}>Reset</button>
       <div>Count :{count}</div>
