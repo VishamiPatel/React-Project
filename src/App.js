@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import YoutubeForm from "./components/counter";
 import "./App.css";
 
